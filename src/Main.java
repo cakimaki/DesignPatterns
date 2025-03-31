@@ -6,5 +6,6 @@ public class Main {
 		
 		
 		System.out.println(Singleton.getInstance("data"));
+		
 	}
 }
